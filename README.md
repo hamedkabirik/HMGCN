@@ -38,11 +38,12 @@ In addition, we also sample the positive and negative edges in the network, and 
 
 
 ## Usage
-This code in `Model.py` is for Alibaba dataset. For other dataset you should modify `Model.py`.
 
-First, you need to determine the data set. If you want to do node classification tasks, you need to modify the data set path in `Node_classification.py`. If you want to do link prediction, you need to modify the dataset path in `Link_prediction.py`.
+First, you need to determine the dataset. If you want to do node classification tasks, you need to modify the dataset path in `Node_classification.py`. If you want to do link prediction, you need to modify the dataset path in `Link_prediction.py`.
 
 Second, you need to modify in `Model.py` according to each dataset. 
+
+This code in `Model.py` is for Alibaba dataset. For other dataset you should modify `Model.py`.
 
 
 Execute the following command to run the node classification task:
