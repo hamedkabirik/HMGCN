@@ -1,6 +1,6 @@
 # HMGCN
 This repository provides a reference implementation of HMGCN as described in the paper:
-> HMGCN: Heterogeneous Multilayer Graph Convolutional Network 
+> Heterogeneous Multilayer Graph Convolutional Network 
 > 
 > Hamed Kabiri Kenari
 > 
